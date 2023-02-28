@@ -1,0 +1,9 @@
+asdf-vm 0.11.1-2
+binder_linux-dkms 6.1-4
+komodo-edit 12.0.1_18441-2
+libgbinder 1.1.32-1
+libglibutil 1.0.68-1
+ly 0.5.3-2
+otf-lotion-git r11.2c79860-1
+python-gbinder 1.1.1-2
+waydroid 1.4.0-1
