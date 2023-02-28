@@ -1,0 +1,13 @@
+[user]
+    email = daamnathaniel@gmail.com
+    name = Nathaniel Adam
+
+[core]
+    editor = micro
+
+[commit]
+    ; Show full diff when editing commit message
+    verbose = true
+
+[init]
+	defaultBranch = main
